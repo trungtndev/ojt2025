@@ -1,4 +1,4 @@
 numpy
-#tritonclient
+tritonclient[all]
 PIL
 torchvision
