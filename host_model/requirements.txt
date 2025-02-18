@@ -1,0 +1,4 @@
+numpy
+#tritonclient
+PIL
+torchvision
